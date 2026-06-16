@@ -85,4 +85,4 @@ contact partnership@reglegbrief.com.
 
 ## Last updated
 
-2026-06-16T08:51:11.263430+00:00
+2026-06-16T00:00:00+00:00
