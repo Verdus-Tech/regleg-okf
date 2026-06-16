@@ -15,7 +15,7 @@ audit_status: "research_complete"
 active_findings_count: 4
 whitepapers_count: 2
 license: "CC-BY-4.0"
-timestamp: "2026-06-16T07:45:40.022586+00:00"
+timestamp: "2026-06-16T07:45:45.126211+00:00"
 ---
 
 # Revisions to Business Conduct and Swap Documentation Requirements for Swap Dealers and Major Swap Participants

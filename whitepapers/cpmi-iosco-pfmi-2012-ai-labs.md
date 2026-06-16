@@ -15,7 +15,7 @@ generated_at: "2026-06-11T01:35:19.027168+00:00"
 published_at: "2026-06-07T01:33:31.767655+00:00"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j1/int/bis-cpmi/CPMI-IOSCO-PFMI-2012/ai-labs/"
-timestamp: "2026-06-16T07:45:40.361391+00:00"
+timestamp: "2026-06-16T07:45:45.487422+00:00"
 ---
 
 # AI Model Hallucination Patterns on CPMI-IOSCO PFMI: A RegLeg Research Report

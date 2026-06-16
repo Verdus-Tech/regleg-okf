@@ -26,7 +26,7 @@ methodology_version: "2.3"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j1/int/untc/BBNJ-HIGH-SEAS-BIODIVERSITY-AGREEMENT-2023/ai-labs/finding/INT-UNTC-INT-001-BBNJ-HIGH-SEAS-BIODIVERSITY-AGREEMENT-2023-v1-003--sonnet-46-websearch/"
 tags: ["ai-hallucination", "inference_drift", "untc", "bbnj-high-seas-biodiversity-agreement-2023", "int"]
-timestamp: "2026-06-16T07:45:39.259099+00:00"
+timestamp: "2026-06-16T07:45:44.376447+00:00"
 ---
 
 # AI Hallucination Finding: Does the BBNJ Agreement apply its marine genetic resources benefit-sharing obligations to specimens…

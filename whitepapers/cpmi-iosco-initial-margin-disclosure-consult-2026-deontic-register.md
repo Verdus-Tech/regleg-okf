@@ -15,7 +15,7 @@ generated_at: "2026-06-07T08:31:57.765670+00:00"
 published_at: "2026-06-07T08:31:57.765670+00:00"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j1/int/bis-cpmi/CPMI-IOSCO-INITIAL-MARGIN-DISCLOSURE-CONSULT-2026/ai-labs/"
-timestamp: "2026-06-16T07:45:40.349192+00:00"
+timestamp: "2026-06-16T07:45:45.474682+00:00"
 ---
 
 # Deontic Register Failure on the CPMI-IOSCO Initial Margin Consultation 2026

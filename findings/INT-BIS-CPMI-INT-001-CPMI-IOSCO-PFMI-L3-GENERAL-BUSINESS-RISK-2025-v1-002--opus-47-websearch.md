@@ -26,7 +26,7 @@ methodology_version: "2.3"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j1/int/bis-cpmi/CPMI-IOSCO-PFMI-L3-GENERAL-BUSINESS-RISK-2025/ai-labs/finding/INT-BIS-CPMI-INT-001-CPMI-IOSCO-PFMI-L3-GENERAL-BUSINESS-RISK-2025-v1-002--opus-47-websearch/"
 tags: ["ai-hallucination", "inference_drift", "bis-cpmi", "cpmi-iosco-pfmi-l3-general-business-risk-2025", "int"]
-timestamp: "2026-06-16T07:45:38.829464+00:00"
+timestamp: "2026-06-16T07:45:43.967738+00:00"
 ---
 
 # AI Hallucination Finding: What capital instruments and assets qualify toward a CCP's minimum liquid net assets funded by…

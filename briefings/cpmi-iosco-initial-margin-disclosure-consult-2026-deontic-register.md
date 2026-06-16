@@ -13,7 +13,7 @@ published_at: "2026-06-07T08:31:57.765670+00:00"
 generated_at: "2026-06-07T08:31:57.765670+00:00"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/briefings/cpmi-iosco-initial-margin-disclosure-consult-2026-deontic-register/"
-timestamp: "2026-06-16T07:45:38.203431+00:00"
+timestamp: "2026-06-16T07:45:43.387986+00:00"
 ---
 
 # Deontic Register Failure on the CPMI-IOSCO Initial Margin Consultation 2026

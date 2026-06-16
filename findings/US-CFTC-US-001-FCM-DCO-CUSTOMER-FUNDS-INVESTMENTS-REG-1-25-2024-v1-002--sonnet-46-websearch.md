@@ -26,7 +26,7 @@ methodology_version: "2.3"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j3/us/cftc/FCM-DCO-CUSTOMER-FUNDS-INVESTMENTS-REG-1-25-2024/ai-labs/finding/US-CFTC-US-001-FCM-DCO-CUSTOMER-FUNDS-INVESTMENTS-REG-1-25-2024-v1-002--sonnet-46-websearch/"
 tags: ["ai-hallucination", "inference_drift", "cftc", "fcm-dco-customer-funds-investments-reg-1-25-2024", "us"]
-timestamp: "2026-06-16T07:45:39.640675+00:00"
+timestamp: "2026-06-16T07:45:44.763478+00:00"
 ---
 
 # AI Hallucination Finding: Does a portfolio maturity constraint apply to direct US Treasury securities held in an FCM's…

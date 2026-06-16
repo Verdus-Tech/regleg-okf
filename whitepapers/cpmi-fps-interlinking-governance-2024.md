@@ -15,7 +15,7 @@ generated_at: "2026-06-15T08:07:30.561538+00:00"
 published_at: "2026-06-15T07:53:32.089089+00:00"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j1/int/bis-cpmi/CPMI-FPS-INTERLINKING-GOVERNANCE-2024/ai-labs/"
-timestamp: "2026-06-16T07:45:40.325624+00:00"
+timestamp: "2026-06-16T07:45:45.448208+00:00"
 ---
 
 # AI Hallucination Evaluation: Linking Fast Payment Systems Across Borders — Governance and Oversight

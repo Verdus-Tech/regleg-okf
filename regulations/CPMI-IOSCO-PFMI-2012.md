@@ -15,7 +15,7 @@ audit_status: "research_complete"
 active_findings_count: 3
 whitepapers_count: 2
 license: "CC-BY-4.0"
-timestamp: "2026-06-16T07:45:39.851046+00:00"
+timestamp: "2026-06-16T07:45:44.972692+00:00"
 ---
 
 # Principles for Financial Market Infrastructures (PFMI)

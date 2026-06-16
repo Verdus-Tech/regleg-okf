@@ -15,7 +15,7 @@ audit_status: "research_complete"
 regulations_complete_count: 1
 active_findings_count: 10
 license: "CC-BY-4.0"
-timestamp: "2026-06-16T07:45:37.981833+00:00"
+timestamp: "2026-06-16T07:45:43.193704+00:00"
 ---
 
 # Financial Conduct Authority (FCA)

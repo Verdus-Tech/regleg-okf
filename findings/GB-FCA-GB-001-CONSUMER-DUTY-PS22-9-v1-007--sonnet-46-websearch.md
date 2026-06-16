@@ -26,7 +26,7 @@ methodology_version: "2.3"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j3/gb/fca/CONSUMER-DUTY-PS22-9/ai-labs/finding/GB-FCA-GB-001-CONSUMER-DUTY-PS22-9-v1-007--sonnet-46-websearch/"
 tags: ["ai-hallucination", "inference_drift", "fca", "consumer-duty-ps22-9", "gb"]
-timestamp: "2026-06-16T07:45:38.416351+00:00"
+timestamp: "2026-06-16T07:45:43.576038+00:00"
 ---
 
 # AI Hallucination Finding: Is the obligation to conduct consumer testing under the Consumer Duty a binding rule in PRIN 2A, or…

@@ -15,7 +15,7 @@ audit_status: "research_complete"
 active_findings_count: 2
 whitepapers_count: 1
 license: "CC-BY-4.0"
-timestamp: "2026-06-16T07:45:39.945871+00:00"
+timestamp: "2026-06-16T07:45:45.055630+00:00"
 ---
 
 # Regulations to Address Margin Adequacy and to Account for the Treatment of Separate Accounts by Futures Commission Merchants (17 CFR § 1.44)

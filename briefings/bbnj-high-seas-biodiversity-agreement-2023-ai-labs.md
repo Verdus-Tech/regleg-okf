@@ -13,7 +13,7 @@ published_at: "2026-06-07T08:38:30.743382+00:00"
 generated_at: "2026-06-11T01:47:18.098145+00:00"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/briefings/bbnj-high-seas-biodiversity-agreement-2023-ai-labs/"
-timestamp: "2026-06-16T07:45:38.080319+00:00"
+timestamp: "2026-06-16T07:45:43.286248+00:00"
 ---
 
 # BBNJ High Seas Biodiversity Agreement: Model Hallucination Findings

@@ -15,7 +15,7 @@ audit_status: "research_complete"
 active_findings_count: 17
 whitepapers_count: 2
 license: "CC-BY-4.0"
-timestamp: "2026-06-16T07:45:39.904344+00:00"
+timestamp: "2026-06-16T07:45:45.019699+00:00"
 ---
 
 # Amendments to CFTC Regulation 4.7, Qualified Eligible Person Portfolio Requirements for CPOs and CTAs

@@ -26,7 +26,7 @@ methodology_version: "2.3"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j1/int/bis-cpmi/CPMI-IOSCO-INITIAL-MARGIN-DISCLOSURE-CONSULT-2026/ai-labs/finding/INT-BIS-CPMI-INT-001-CPMI-IOSCO-INITIAL-MARGIN-DISCLOSURE-CONSULT-2026-v1-005--sonnet-46-websearch/"
 tags: ["ai-hallucination", "inference_drift", "bis-cpmi", "cpmi-iosco-initial-margin-disclosure-consult-2026", "int"]
-timestamp: "2026-06-16T07:45:38.778347+00:00"
+timestamp: "2026-06-16T07:45:43.923557+00:00"
 ---
 
 # AI Hallucination Finding: What specific information must CCPs publicly disclose about their margin model override framework…

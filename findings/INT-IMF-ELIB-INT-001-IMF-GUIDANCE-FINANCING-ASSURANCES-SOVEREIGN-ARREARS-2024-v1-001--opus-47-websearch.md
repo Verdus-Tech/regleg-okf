@@ -26,7 +26,7 @@ methodology_version: "2.3"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j1/int/imf-elib/IMF-GUIDANCE-FINANCING-ASSURANCES-SOVEREIGN-ARREARS-2024/ai-labs/finding/INT-IMF-ELIB-INT-001-IMF-GUIDANCE-FINANCING-ASSURANCES-SOVEREIGN-ARREARS-2024-v1-001--opus-47-websearch/"
 tags: ["ai-hallucination", "inference_drift", "imf-elib", "imf-guidance-financing-assurances-sovereign-arrears-2024", "int"]
-timestamp: "2026-06-16T07:45:38.969506+00:00"
+timestamp: "2026-06-16T07:45:44.089449+00:00"
 ---
 
 # AI Hallucination Finding: A sovereign debt management brief requested accurate conditions for activating the IMF's new LIOA…

@@ -15,7 +15,7 @@ generated_at: "2026-06-07T07:58:36.486862+00:00"
 published_at: "2026-06-07T07:58:36.486862+00:00"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j1/int/bis-cpmi/CPMI-IOSCO-INITIAL-MARGIN-DISCLOSURE-CONSULT-2026/ai-labs/"
-timestamp: "2026-06-16T07:45:40.081980+00:00"
+timestamp: "2026-06-16T07:45:45.184769+00:00"
 ---
 
 # Hallucination findings: CPMI-IOSCO Consultation on Updated Guidance and Public Disclosures to Implement Initial Margin Proposals

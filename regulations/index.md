@@ -3,7 +3,7 @@ type: "Index"
 title: "Regulations"
 description: "Regulations whose research is complete and against which findings have been published."
 entry_count: 20
-timestamp: "2026-06-16T07:45:40.033754+00:00"
+timestamp: "2026-06-16T07:45:45.136685+00:00"
 ---
 
 # Regulations

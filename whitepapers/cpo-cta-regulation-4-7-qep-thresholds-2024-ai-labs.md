@@ -15,7 +15,7 @@ generated_at: "2026-06-11T07:51:36.493587+00:00"
 published_at: "2026-06-11T07:51:36.493587+00:00"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j3/us/cftc/CPO-CTA-REGULATION-4-7-QEP-THRESHOLDS-2024/ai-labs/"
-timestamp: "2026-06-16T07:45:40.397135+00:00"
+timestamp: "2026-06-16T07:45:45.527055+00:00"
 ---
 
 # AI Hallucination Evaluation: CFTC Regulation 4.7 (Qualified Eligible Person Portfolio Requirements - 2024 Amendments)

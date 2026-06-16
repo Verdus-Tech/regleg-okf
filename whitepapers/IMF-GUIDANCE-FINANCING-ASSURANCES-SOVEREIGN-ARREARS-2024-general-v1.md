@@ -15,7 +15,7 @@ generated_at: "2026-06-07T07:58:47.970169+00:00"
 published_at: "2026-06-07T07:58:47.970169+00:00"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j1/int/imf-elib/IMF-GUIDANCE-FINANCING-ASSURANCES-SOVEREIGN-ARREARS-2024/ai-labs/"
-timestamp: "2026-06-16T07:45:40.175525+00:00"
+timestamp: "2026-06-16T07:45:45.287416+00:00"
 ---
 
 # Hallucination findings: Guidance Note on the Financing Assurances and Sovereign Arrears Policies and the Fund's Role in Debt Restructurings (2024)

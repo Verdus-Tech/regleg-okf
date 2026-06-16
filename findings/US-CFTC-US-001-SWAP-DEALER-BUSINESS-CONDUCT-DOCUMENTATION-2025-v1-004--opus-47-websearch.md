@@ -26,7 +26,7 @@ methodology_version: "2.3"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j3/us/cftc/SWAP-DEALER-BUSINESS-CONDUCT-DOCUMENTATION-2025/ai-labs/finding/US-CFTC-US-001-SWAP-DEALER-BUSINESS-CONDUCT-DOCUMENTATION-2025-v1-004--opus-47-websearch/"
 tags: ["ai-hallucination", "inference_drift", "cftc", "swap-dealer-business-conduct-documentation-2025", "us"]
-timestamp: "2026-06-16T07:45:39.720396+00:00"
+timestamp: "2026-06-16T07:45:44.849136+00:00"
 ---
 
 # AI Hallucination Finding: Which categories of swap instruments were actually subject to the pre-trade mid-market mark…

@@ -13,7 +13,7 @@ published_at: "2026-06-03T21:56:17.993631+00:00"
 generated_at: "2026-06-03T21:56:17.993631+00:00"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/briefings/cftc-swap-dealer-business-conduct-documentation-2025/"
-timestamp: "2026-06-16T07:45:38.133768+00:00"
+timestamp: "2026-06-16T07:45:43.332050+00:00"
 ---
 
 # Amendment-Layer Failures on CFTC Swap Dealer Business Conduct Rules

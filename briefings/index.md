@@ -3,7 +3,7 @@ type: "Index"
 title: "Public briefings"
 description: "News-format briefings published from the same finding set as the AI Labs whitepapers."
 entry_count: 21
-timestamp: "2026-06-16T07:45:38.317673+00:00"
+timestamp: "2026-06-16T07:45:43.483605+00:00"
 ---
 
 # Public briefings

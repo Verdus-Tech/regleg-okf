@@ -26,7 +26,7 @@ methodology_version: "2.1"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j3/sg/mas/NOTICE-637-CAPITAL-ADEQUACY-BANKS-2025/ai-labs/finding/SG-MAS-SG-001-NOTICE-637-CAPITAL-ADEQUACY-BANKS-2025-v1-010--opus-47-websearch/"
 tags: ["ai-hallucination", "inference_drift", "mas", "notice-637-capital-adequacy-banks-2025", "sg"]
-timestamp: "2026-06-16T07:45:39.301774+00:00"
+timestamp: "2026-06-16T07:45:44.414759+00:00"
 ---
 
 # AI Hallucination Finding: Does MAS Notice 637 on risk-based capital adequacy apply to financial holding companies…

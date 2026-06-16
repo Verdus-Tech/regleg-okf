@@ -13,7 +13,7 @@ published_at: "2026-06-14T23:26:14.605877+00:00"
 generated_at: "2026-06-14T23:37:54.926817+00:00"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/briefings/cpmi-iosco-variation-margin-ccps-2025/"
-timestamp: "2026-06-16T07:45:38.232338+00:00"
+timestamp: "2026-06-16T07:45:43.410502+00:00"
 ---
 
 # AI Hallucination Evaluation: Streamlining Variation Margin in Centrally Cleared Markets

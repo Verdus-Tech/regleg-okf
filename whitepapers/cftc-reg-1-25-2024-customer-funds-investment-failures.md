@@ -15,7 +15,7 @@ generated_at: "2026-06-11T01:39:05.145683+00:00"
 published_at: "2026-06-07T08:39:33.721893+00:00"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j3/us/cftc/FCM-DCO-CUSTOMER-FUNDS-INVESTMENTS-REG-1-25-2024/ai-labs/"
-timestamp: "2026-06-16T07:45:40.264072+00:00"
+timestamp: "2026-06-16T07:45:45.380441+00:00"
 ---
 
 # Regulation 1.25 Amendment Failures: Schema Substitution and Procedural Confabulation on CFTC Customer Fund Investment Rules

@@ -15,7 +15,7 @@ audit_status: "research_complete"
 active_findings_count: 6
 whitepapers_count: 1
 license: "CC-BY-4.0"
-timestamp: "2026-06-16T07:45:39.805423+00:00"
+timestamp: "2026-06-16T07:45:44.934325+00:00"
 ---
 
 # Linking Fast Payment Systems Across Borders: Governance and Oversight, Final Report
