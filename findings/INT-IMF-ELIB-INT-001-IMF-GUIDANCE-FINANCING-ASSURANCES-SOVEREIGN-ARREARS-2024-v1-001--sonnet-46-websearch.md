@@ -26,7 +26,7 @@ methodology_version: "2.3"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j1/int/imf-elib/IMF-GUIDANCE-FINANCING-ASSURANCES-SOVEREIGN-ARREARS-2024/ai-labs/finding/INT-IMF-ELIB-INT-001-IMF-GUIDANCE-FINANCING-ASSURANCES-SOVEREIGN-ARREARS-2024-v1-001--sonnet-46-websearch/"
 tags: ["ai-hallucination", "inference_drift", "imf-elib", "imf-guidance-financing-assurances-sovereign-arrears-2024", "int"]
-timestamp: "2026-06-16T07:45:44.100804+00:00"
+timestamp: "2026-06-16T07:45:49.166759+00:00"
 ---
 
 # AI Hallucination Finding: When is the IMF's LIOA Strand 4 pathway activated — specifically, does a bilateral creditor's…

@@ -26,7 +26,7 @@ methodology_version: "2.3"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j3/us/cftc/CPO-CTA-REGULATION-4-7-QEP-THRESHOLDS-2024/ai-labs/finding/US-CFTC-US-001-CPO-CTA-REGULATION-4-7-QEP-THRESHOLDS-2024-v1-008--sonnet-46-websearch/"
 tags: ["ai-hallucination", "misattributed", "cftc", "cpo-cta-regulation-4-7-qep-thresholds-2024", "us"]
-timestamp: "2026-06-16T07:45:44.456045+00:00"
+timestamp: "2026-06-16T07:45:49.502758+00:00"
 ---
 
 # AI Hallucination Finding: A political-risk analyst at an investment bank has asked you to draft a brief…

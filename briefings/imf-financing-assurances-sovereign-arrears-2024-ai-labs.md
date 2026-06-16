@@ -13,7 +13,7 @@ published_at: "2026-06-07T08:37:14.076823+00:00"
 generated_at: "2026-06-07T08:37:14.076823+00:00"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/briefings/imf-financing-assurances-sovereign-arrears-2024-ai-labs/"
-timestamp: "2026-06-16T07:45:43.456000+00:00"
+timestamp: "2026-06-16T07:45:48.519056+00:00"
 ---
 
 # Cross-Provision Conflation in IMF Sovereign Financing Framework: Frontier AI Model Findings

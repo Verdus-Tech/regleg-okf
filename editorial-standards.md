@@ -5,7 +5,7 @@ governing_panel: "RLB Specialist Panel"
 right_of_reply_window_days: 14
 correction_policy: "All corrections logged with original published_at preserved; corrected text appended."
 license: "CC-BY-4.0"
-timestamp: "2026-06-16T07:45:43.540102+00:00"
+timestamp: "2026-06-16T07:45:48.595407+00:00"
 ---
 # Editorial Standards — RegLegBrief
 

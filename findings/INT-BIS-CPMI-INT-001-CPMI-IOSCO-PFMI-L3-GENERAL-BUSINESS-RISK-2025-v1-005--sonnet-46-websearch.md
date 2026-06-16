@@ -26,7 +26,7 @@ methodology_version: "2.3"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j1/int/bis-cpmi/CPMI-IOSCO-PFMI-L3-GENERAL-BUSINESS-RISK-2025/ai-labs/finding/INT-BIS-CPMI-INT-001-CPMI-IOSCO-PFMI-L3-GENERAL-BUSINESS-RISK-2025-v1-005--sonnet-46-websearch/"
 tags: ["ai-hallucination", "outdated", "bis-cpmi", "cpmi-iosco-pfmi-l3-general-business-risk-2025", "int"]
-timestamp: "2026-06-16T07:45:44.012802+00:00"
+timestamp: "2026-06-16T07:45:49.070413+00:00"
 ---
 
 # AI Hallucination Finding: A trade repository is contextualising the November 2025 CPMI-IOSCO Level 3 assessment for its…

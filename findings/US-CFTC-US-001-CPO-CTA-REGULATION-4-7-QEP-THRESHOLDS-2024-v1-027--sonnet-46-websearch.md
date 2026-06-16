@@ -26,7 +26,7 @@ methodology_version: "2.3"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j3/us/cftc/CPO-CTA-REGULATION-4-7-QEP-THRESHOLDS-2024/ai-labs/finding/US-CFTC-US-001-CPO-CTA-REGULATION-4-7-QEP-THRESHOLDS-2024-v1-027--sonnet-46-websearch/"
 tags: ["ai-hallucination", "misstated_rule", "cftc", "cpo-cta-regulation-4-7-qep-thresholds-2024", "us"]
-timestamp: "2026-06-16T07:45:44.583387+00:00"
+timestamp: "2026-06-16T07:45:49.619721+00:00"
 ---
 
 # AI Hallucination Finding: You are drafting a recordkeeping-policy section of a CCO compliance manual for a newly registered…

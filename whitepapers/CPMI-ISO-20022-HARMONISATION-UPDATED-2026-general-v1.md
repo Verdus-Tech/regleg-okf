@@ -15,7 +15,7 @@ generated_at: "2026-06-07T07:58:42.577870+00:00"
 published_at: "2026-06-07T07:58:42.577870+00:00"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j1/int/bis-cpmi/CPMI-ISO-20022-HARMONISATION-UPDATED-2026/ai-labs/"
-timestamp: "2026-06-16T07:45:45.221899+00:00"
+timestamp: "2026-06-16T07:45:50.257842+00:00"
 ---
 
 # Hallucination findings: Harmonised ISO 20022 Data Requirements for Enhancing Cross-Border Payments - Updated Report

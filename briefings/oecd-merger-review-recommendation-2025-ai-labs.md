@@ -13,7 +13,7 @@ published_at: "2026-06-07T23:25:58.509970+00:00"
 generated_at: "2026-06-07T23:25:58.509970+00:00"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/briefings/oecd-merger-review-recommendation-2025-ai-labs/"
-timestamp: "2026-06-16T07:45:43.525942+00:00"
+timestamp: "2026-06-16T07:45:48.581424+00:00"
 ---
 
 # Structural Fabrication and Qualifier Erasure: AI Failure Modes on the 2025 OECD Merger Review Recommendation

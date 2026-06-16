@@ -26,7 +26,7 @@ methodology_version: "2.3"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j1/int/oecd/OECD-DIGITAL-TECHNOLOGIES-ENVIRONMENT-2025/ai-labs/finding/INT-OECD-INT-001-OECD-DIGITAL-TECHNOLOGIES-ENVIRONMENT-2025-v1-006--sonnet-46-websearch/"
 tags: ["ai-hallucination", "inference_drift", "oecd", "oecd-digital-technologies-environment-2025", "int"]
-timestamp: "2026-06-16T07:45:44.236290+00:00"
+timestamp: "2026-06-16T07:45:49.300938+00:00"
 ---
 
 # AI Hallucination Finding: What share of Ireland's 2021 metered electricity did data centres account for, per the figure cited…

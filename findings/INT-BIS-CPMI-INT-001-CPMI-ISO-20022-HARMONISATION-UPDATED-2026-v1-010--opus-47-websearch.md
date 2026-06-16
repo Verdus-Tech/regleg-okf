@@ -26,7 +26,7 @@ methodology_version: "2.3"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j1/int/bis-cpmi/CPMI-ISO-20022-HARMONISATION-UPDATED-2026/ai-labs/finding/INT-BIS-CPMI-INT-001-CPMI-ISO-20022-HARMONISATION-UPDATED-2026-v1-010--opus-47-websearch/"
 tags: ["ai-hallucination", "inference_drift", "bis-cpmi", "cpmi-iso-20022-harmonisation-updated-2026", "int"]
-timestamp: "2026-06-16T07:45:44.078488+00:00"
+timestamp: "2026-06-16T07:45:49.143010+00:00"
 ---
 
 # AI Hallucination Finding: When did the Fedwire Funds Service implement the CPMI harmonised ISO 20022 data model requirements…

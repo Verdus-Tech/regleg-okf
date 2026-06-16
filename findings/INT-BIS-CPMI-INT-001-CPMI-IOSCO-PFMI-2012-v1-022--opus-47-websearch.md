@@ -26,7 +26,7 @@ methodology_version: "2.3"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j1/int/bis-cpmi/CPMI-IOSCO-PFMI-2012/ai-labs/finding/INT-BIS-CPMI-INT-001-CPMI-IOSCO-PFMI-2012-v1-022--opus-47-websearch/"
 tags: ["ai-hallucination", "inference_drift", "bis-cpmi", "cpmi-iosco-pfmi-2012", "int"]
-timestamp: "2026-06-16T07:45:43.945576+00:00"
+timestamp: "2026-06-16T07:45:49.001403+00:00"
 ---
 
 # AI Hallucination Finding: PFMI Principle 2, Key Consideration 6 requires FMI boards to establish a documented risk-management…

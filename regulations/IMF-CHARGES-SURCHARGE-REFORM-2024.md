@@ -15,7 +15,7 @@ audit_status: "research_complete"
 active_findings_count: 2
 whitepapers_count: 2
 license: "CC-BY-4.0"
-timestamp: "2026-06-16T07:45:45.067629+00:00"
+timestamp: "2026-06-16T07:45:50.077460+00:00"
 ---
 
 # Review of Charges and the Surcharge Policy, Reform Proposals (October 2024)

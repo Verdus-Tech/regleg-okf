@@ -26,7 +26,7 @@ methodology_version: "2.3"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j3/us/cftc/DIGITAL-ASSET-COLLATERAL-TOKENIZED-ASSETS-STAFF-GUIDANCE-2025/ai-labs/finding/US-CFTC-US-001-DIGITAL-ASSET-COLLATERAL-TOKENIZED-ASSETS-STAFF-GUIDANCE-2025-v1-006--opus-47-websearch/"
 tags: ["ai-hallucination", "inference_drift", "cftc", "digital-asset-collateral-tokenized-assets-staff-guidance-2025", "us"]
-timestamp: "2026-06-16T07:45:44.689930+00:00"
+timestamp: "2026-06-16T07:45:49.708468+00:00"
 ---
 
 # AI Hallucination Finding: A futures commission merchant began accepting bitcoin, ether, and USDC as customer margin…

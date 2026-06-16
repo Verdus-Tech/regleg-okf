@@ -15,7 +15,7 @@ generated_at: "2026-06-07T07:58:31.691947+00:00"
 published_at: "2026-06-07T07:58:31.691947+00:00"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j1/int/bis-cpmi/CPMI-API-HARMONISATION-CROSS-BORDER-2024/ai-labs/"
-timestamp: "2026-06-16T07:45:45.173145+00:00"
+timestamp: "2026-06-16T07:45:50.212408+00:00"
 ---
 
 # Hallucination findings: Promoting the Harmonisation of Application Programming Interfaces to Enhance Cross-Border Payments: Recommendations and Toolkit

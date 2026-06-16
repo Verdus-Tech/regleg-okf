@@ -13,7 +13,7 @@ published_at: "2026-06-07T08:35:37.249075+00:00"
 generated_at: "2026-06-07T08:35:37.249075+00:00"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/briefings/pfmi-principle-15-conditional-structure-failures-opus-47-sonnet-46/"
-timestamp: "2026-06-16T07:45:43.537966+00:00"
+timestamp: "2026-06-16T07:45:48.593369+00:00"
 ---
 
 # PFMI Principle 15 Failures: Conditional-Structure Fabrication and Carve-Out Denial across frontier AI models

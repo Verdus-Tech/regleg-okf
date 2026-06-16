@@ -26,7 +26,7 @@ methodology_version: "2.3"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j1/int/bis-cpmi/CPMI-API-HARMONISATION-CROSS-BORDER-2024/ai-labs/finding/INT-BIS-CPMI-INT-001-CPMI-API-HARMONISATION-CROSS-BORDER-2024-v1-010--opus-47-websearch/"
 tags: ["ai-hallucination", "inference_drift", "bis-cpmi", "cpmi-api-harmonisation-cross-border-2024", "int"]
-timestamp: "2026-06-16T07:45:43.723435+00:00"
+timestamp: "2026-06-16T07:45:48.773239+00:00"
 ---
 
 # AI Hallucination Finding: A market briefing on the global fast payment system landscape needs CPMI data on how many domestic…

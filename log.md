@@ -3,7 +3,7 @@ type: "Log"
 title: "RegLegBrief OKF change log"
 description: "Chronological reverse-time-sorted list of publish events: findings, whitepapers, and regulations flipped to research_complete."
 entry_count: 163
-timestamp: "2026-06-16T07:45:44.879807+00:00"
+timestamp: "2026-06-16T07:45:49.882209+00:00"
 ---
 
 # Change log

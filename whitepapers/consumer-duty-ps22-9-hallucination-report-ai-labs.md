@@ -15,7 +15,7 @@ generated_at: "2026-06-11T01:42:44.211287+00:00"
 published_at: "2026-06-07T08:31:34.320675+00:00"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j3/gb/fca/CONSUMER-DUTY-PS22-9/ai-labs/"
-timestamp: "2026-06-16T07:45:45.421535+00:00"
+timestamp: "2026-06-16T07:45:50.433177+00:00"
 ---
 
 # Consumer Duty Hallucination Report: frontier AI models

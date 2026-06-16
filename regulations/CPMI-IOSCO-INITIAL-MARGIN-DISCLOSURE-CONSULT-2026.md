@@ -15,7 +15,7 @@ audit_status: "research_complete"
 active_findings_count: 1
 whitepapers_count: 2
 license: "CC-BY-4.0"
-timestamp: "2026-06-16T07:45:44.960138+00:00"
+timestamp: "2026-06-16T07:45:49.958123+00:00"
 ---
 
 # CPMI-IOSCO Consultation on Updated Guidance and Public Disclosures to Implement Initial Margin Proposals

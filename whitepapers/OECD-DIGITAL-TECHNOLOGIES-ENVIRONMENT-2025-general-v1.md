@@ -15,7 +15,7 @@ generated_at: "2026-06-08T09:47:29.689779+00:00"
 published_at: "2026-06-08T09:47:29.689779+00:00"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j1/int/oecd/OECD-DIGITAL-TECHNOLOGIES-ENVIRONMENT-2025/ai-labs/"
-timestamp: "2026-06-16T07:45:45.313123+00:00"
+timestamp: "2026-06-16T07:45:50.339211+00:00"
 ---
 
 # Hallucination findings: Recommendation of the Council on Digital Technologies and the Environment (2025 Revision)

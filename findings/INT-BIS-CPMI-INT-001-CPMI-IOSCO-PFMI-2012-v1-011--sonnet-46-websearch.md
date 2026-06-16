@@ -26,7 +26,7 @@ methodology_version: "2.3"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j1/int/bis-cpmi/CPMI-IOSCO-PFMI-2012/ai-labs/finding/INT-BIS-CPMI-INT-001-CPMI-IOSCO-PFMI-2012-v1-011--sonnet-46-websearch/"
 tags: ["ai-hallucination", "inference_drift", "bis-cpmi", "cpmi-iosco-pfmi-2012", "int"]
-timestamp: "2026-06-16T07:45:43.934564+00:00"
+timestamp: "2026-06-16T07:45:48.990431+00:00"
 ---
 
 # AI Hallucination Finding: What oversight expectations does the PFMI's Annex F establish for critical service providers, and…

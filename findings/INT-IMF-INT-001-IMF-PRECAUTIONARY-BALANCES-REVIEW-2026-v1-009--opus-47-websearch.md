@@ -26,7 +26,7 @@ methodology_version: "v2.3"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j1/int/imf/IMF-PRECAUTIONARY-BALANCES-REVIEW-2026/ai-labs/finding/INT-IMF-INT-001-IMF-PRECAUTIONARY-BALANCES-REVIEW-2026-v1-009--opus-47-websearch/"
 tags: ["ai-hallucination", "misstated_rule", "imf", "imf-precautionary-balances-review-2026", "int"]
-timestamp: "2026-06-16T07:45:44.190279+00:00"
+timestamp: "2026-06-16T07:45:49.249924+00:00"
 ---
 
 # AI Hallucination Finding: A civil-society policy team at a development-finance NGO is preparing a campaign report arguing…

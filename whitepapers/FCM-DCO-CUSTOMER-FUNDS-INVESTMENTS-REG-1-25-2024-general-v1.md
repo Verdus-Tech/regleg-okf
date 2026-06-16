@@ -15,7 +15,7 @@ generated_at: "2026-06-07T07:59:01.012109+00:00"
 published_at: "2026-06-07T07:59:01.012109+00:00"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j3/us/cftc/FCM-DCO-CUSTOMER-FUNDS-INVESTMENTS-REG-1-25-2024/ai-labs/"
-timestamp: "2026-06-16T07:45:45.261130+00:00"
+timestamp: "2026-06-16T07:45:50.293130+00:00"
 ---
 
 # Hallucination findings: Amendments to Regulation 1.25, Permissible Investments of Customer Funds by Futures Commission Merchants and Derivatives Clearing Organizations

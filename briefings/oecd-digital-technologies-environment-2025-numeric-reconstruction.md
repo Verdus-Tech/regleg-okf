@@ -13,7 +13,7 @@ published_at: "2026-06-08T09:51:11.316086+00:00"
 generated_at: "2026-06-08T09:51:11.316086+00:00"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/briefings/oecd-digital-technologies-environment-2025-numeric-reconstruction/"
-timestamp: "2026-06-16T07:45:43.513088+00:00"
+timestamp: "2026-06-16T07:45:48.569442+00:00"
 ---
 
 # Numeric Reconstruction Failures on OECD Digital Technologies and the Environment (2025)

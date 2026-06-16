@@ -26,7 +26,7 @@ methodology_version: "2.1"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j3/gb/fca/CONSUMER-DUTY-PS22-9/ai-labs/finding/GB-FCA-GB-001-CONSUMER-DUTY-PS22-9-v1-018--opus-47-websearch/"
 tags: ["ai-hallucination", "misstated_rule", "fca", "consumer-duty-ps22-9", "gb"]
-timestamp: "2026-06-16T07:45:43.638835+00:00"
+timestamp: "2026-06-16T07:45:48.687356+00:00"
 ---
 
 # AI Hallucination Finding: Does the Consumer Duty apply to reinsurance, group insurance policy distribution, and large-risk…

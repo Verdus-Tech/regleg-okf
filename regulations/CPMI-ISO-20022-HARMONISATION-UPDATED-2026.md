@@ -15,7 +15,7 @@ audit_status: "research_complete"
 active_findings_count: 5
 whitepapers_count: 2
 license: "CC-BY-4.0"
-timestamp: "2026-06-16T07:45:45.007911+00:00"
+timestamp: "2026-06-16T07:45:50.010289+00:00"
 ---
 
 # Harmonised ISO 20022 Data Requirements for Enhancing Cross-Border Payments, Updated Report

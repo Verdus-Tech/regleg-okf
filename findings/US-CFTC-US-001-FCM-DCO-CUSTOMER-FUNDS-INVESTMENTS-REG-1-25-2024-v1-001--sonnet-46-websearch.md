@@ -26,7 +26,7 @@ methodology_version: "2.3"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j3/us/cftc/FCM-DCO-CUSTOMER-FUNDS-INVESTMENTS-REG-1-25-2024/ai-labs/finding/US-CFTC-US-001-FCM-DCO-CUSTOMER-FUNDS-INVESTMENTS-REG-1-25-2024-v1-001--sonnet-46-websearch/"
 tags: ["ai-hallucination", "inference_drift", "cftc", "fcm-dco-customer-funds-investments-reg-1-25-2024", "us"]
-timestamp: "2026-06-16T07:45:44.736902+00:00"
+timestamp: "2026-06-16T07:45:49.753001+00:00"
 ---
 
 # AI Hallucination Finding: A Chief Risk Officer preparing an FCM investment policy statement asked for the updated…

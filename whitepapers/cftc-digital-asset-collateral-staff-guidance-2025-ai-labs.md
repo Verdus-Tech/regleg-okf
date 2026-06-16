@@ -15,7 +15,7 @@ generated_at: "2026-06-11T01:41:27.739389+00:00"
 published_at: "2026-06-07T08:37:33.875369+00:00"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j3/us/cftc/DIGITAL-ASSET-COLLATERAL-TOKENIZED-ASSETS-STAFF-GUIDANCE-2025/ai-labs/"
-timestamp: "2026-06-16T07:45:45.367143+00:00"
+timestamp: "2026-06-16T07:45:50.386618+00:00"
 ---
 
 # CFTC Digital Asset Collateral Staff Guidance 2025: Hallucination Patterns across frontier AI models

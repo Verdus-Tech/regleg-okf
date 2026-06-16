@@ -15,7 +15,7 @@ generated_at: "2026-06-11T01:44:06.973210+00:00"
 published_at: "2026-06-07T08:31:39.252227+00:00"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j1/int/bis-cpmi/CPMI-API-HARMONISATION-CROSS-BORDER-2024/ai-labs/"
-timestamp: "2026-06-16T07:45:45.434995+00:00"
+timestamp: "2026-06-16T07:45:50.444858+00:00"
 ---
 
 # API Harmonisation for Cross-Border Payments: Model Failure Patterns on CPMI's October 2024 Framework

@@ -26,7 +26,7 @@ methodology_version: "v2.3"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j1/int/bis-cpmi/CPMI-IOSCO-VARIATION-MARGIN-CCPs-2025/ai-labs/finding/INT-BIS-CPMI-INT-001-CPMI-IOSCO-VARIATION-MARGIN-CCPs-2025-v1-004--opus-47-websearch/"
 tags: ["ai-hallucination", "misstated_rule", "bis-cpmi", "cpmi-iosco-variation-margin-ccps-2025", "int"]
-timestamp: "2026-06-16T07:45:44.023707+00:00"
+timestamp: "2026-06-16T07:45:49.081494+00:00"
 ---
 
 # AI Hallucination Finding: A CCP's General Counsel has asked you to prepare a compliance obligations memo for the board's…

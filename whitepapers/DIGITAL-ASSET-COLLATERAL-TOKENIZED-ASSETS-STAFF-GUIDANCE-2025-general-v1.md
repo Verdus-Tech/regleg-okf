@@ -15,7 +15,7 @@ generated_at: "2026-06-07T07:58:58.147200+00:00"
 published_at: "2026-06-07T07:58:58.147200+00:00"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j3/us/cftc/DIGITAL-ASSET-COLLATERAL-TOKENIZED-ASSETS-STAFF-GUIDANCE-2025/ai-labs/"
-timestamp: "2026-06-16T07:45:45.247951+00:00"
+timestamp: "2026-06-16T07:45:50.281249+00:00"
 ---
 
 # Hallucination findings: CFTC Digital Asset Collateral No-Action Relief and Tokenized Asset Staff Guidance (Market Participants Division, December 2025)

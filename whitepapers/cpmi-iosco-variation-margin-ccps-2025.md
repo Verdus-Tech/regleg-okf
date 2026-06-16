@@ -15,7 +15,7 @@ generated_at: "2026-06-14T23:37:54.926817+00:00"
 published_at: "2026-06-14T23:26:14.605877+00:00"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j1/int/bis-cpmi/CPMI-IOSCO-VARIATION-MARGIN-CCPs-2025/ai-labs/"
-timestamp: "2026-06-16T07:45:45.501176+00:00"
+timestamp: "2026-06-16T07:45:50.504240+00:00"
 ---
 
 # AI Hallucination Evaluation: Streamlining Variation Margin in Centrally Cleared Markets

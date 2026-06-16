@@ -26,7 +26,7 @@ methodology_version: "2.3"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j3/us/cftc/FCM-MARGIN-ADEQUACY-SEPARATE-ACCOUNTS-REG-1-44/ai-labs/finding/US-CFTC-US-001-FCM-MARGIN-ADEQUACY-SEPARATE-ACCOUNTS-REG-1-44-v1-001--opus-47-websearch/"
 tags: ["ai-hallucination", "outdated", "cftc", "fcm-margin-adequacy-separate-accounts-reg-1-44", "us"]
-timestamp: "2026-06-16T07:45:44.789136+00:00"
+timestamp: "2026-06-16T07:45:49.797503+00:00"
 ---
 
 # AI Hallucination Finding: An FCM operations guidance note on Regulation 1.44 margin call timing stated that Appendix A…

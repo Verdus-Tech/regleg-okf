@@ -26,7 +26,7 @@ methodology_version: "2.1"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j3/gb/fca/CONSUMER-DUTY-PS22-9/ai-labs/finding/GB-FCA-GB-001-CONSUMER-DUTY-PS22-9-v1-002--sonnet-46-websearch/"
 tags: ["ai-hallucination", "misstated_rule", "fca", "consumer-duty-ps22-9", "gb"]
-timestamp: "2026-06-16T07:45:43.550946+00:00"
+timestamp: "2026-06-16T07:45:48.606136+00:00"
 ---
 
 # AI Hallucination Finding: Was the Consumer Duty created through primary legislation or FCA rulemaking? What is the legal…
