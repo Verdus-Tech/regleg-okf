@@ -26,7 +26,7 @@ methodology_version: "2.3"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j1/int/bis-cpmi/CPMI-ISO-20022-HARMONISATION-UPDATED-2026/ai-labs/finding/INT-BIS-CPMI-INT-001-CPMI-ISO-20022-HARMONISATION-UPDATED-2026-v1-006--opus-47-websearch/"
 tags: ["ai-hallucination", "inference_drift", "bis-cpmi", "cpmi-iso-20022-harmonisation-updated-2026", "int"]
-timestamp: "2026-06-16T07:45:49.107920+00:00"
+timestamp: "2026-06-16T00:00:00+00:00"
 ---
 
 # AI Hallucination Finding: What share of faster payment systems and RTGS systems are currently using ISO 20022 messaging,…

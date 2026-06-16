@@ -15,7 +15,7 @@ audit_status: "research_complete"
 active_findings_count: 1
 whitepapers_count: 1
 license: "CC-BY-4.0"
-timestamp: "2026-06-16T07:45:49.996733+00:00"
+timestamp: "2026-06-16T00:00:00+00:00"
 ---
 
 # Streamlining Variation Margin in Centrally Cleared Markets, Examples of Effective Practices

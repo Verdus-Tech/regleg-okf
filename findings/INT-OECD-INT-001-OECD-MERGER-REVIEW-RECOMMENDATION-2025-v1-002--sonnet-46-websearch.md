@@ -26,7 +26,7 @@ methodology_version: "2.3"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j1/int/oecd/OECD-MERGER-REVIEW-RECOMMENDATION-2025/ai-labs/finding/INT-OECD-INT-001-OECD-MERGER-REVIEW-RECOMMENDATION-2025-v1-002--sonnet-46-websearch/"
 tags: ["ai-hallucination", "misattributed", "oecd", "oecd-merger-review-recommendation-2025", "int"]
-timestamp: "2026-06-16T07:45:49.338208+00:00"
+timestamp: "2026-06-16T00:00:00+00:00"
 ---
 
 # AI Hallucination Finding: What does Section IV.3 of the 2025 OECD Merger Review Recommendation establish as the hierarchy for…

@@ -26,7 +26,7 @@ methodology_version: "2.3"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j1/int/untc/BBNJ-HIGH-SEAS-BIODIVERSITY-AGREEMENT-2023/ai-labs/finding/INT-UNTC-INT-001-BBNJ-HIGH-SEAS-BIODIVERSITY-AGREEMENT-2023-v1-001--sonnet-46-websearch/"
 tags: ["ai-hallucination", "misattributed", "untc", "bbnj-high-seas-biodiversity-agreement-2023", "int"]
-timestamp: "2026-06-16T07:45:49.409098+00:00"
+timestamp: "2026-06-16T00:00:00+00:00"
 ---
 
 # AI Hallucination Finding: Under the BBNJ Agreement, at what threshold must a planned high-seas activity undergo an…

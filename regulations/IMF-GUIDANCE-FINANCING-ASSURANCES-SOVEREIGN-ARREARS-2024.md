@@ -15,7 +15,7 @@ audit_status: "research_complete"
 active_findings_count: 4
 whitepapers_count: 2
 license: "CC-BY-4.0"
-timestamp: "2026-06-16T07:45:50.090526+00:00"
+timestamp: "2026-06-16T00:00:00+00:00"
 ---
 
 # Guidance Note on the Financing Assurances and Sovereign Arrears Policies and the Fund's Role in Debt Restructurings (2024)

@@ -3,7 +3,7 @@ type: "Index"
 title: "AI Labs whitepapers"
 description: "Synthesized AI Labs whitepapers, one per regulation with active findings."
 entry_count: 21
-timestamp: "2026-06-16T07:45:50.574882+00:00"
+timestamp: "2026-06-16T00:00:00+00:00"
 ---
 
 # AI Labs whitepapers

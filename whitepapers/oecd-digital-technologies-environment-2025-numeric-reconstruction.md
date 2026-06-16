@@ -15,7 +15,7 @@ generated_at: "2026-06-08T09:51:11.316086+00:00"
 published_at: "2026-06-08T09:51:11.316086+00:00"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j1/int/oecd/OECD-DIGITAL-TECHNOLOGIES-ENVIRONMENT-2025/ai-labs/"
-timestamp: "2026-06-16T07:45:50.600518+00:00"
+timestamp: "2026-06-16T00:00:00+00:00"
 ---
 
 # Numeric Reconstruction Failures on OECD Digital Technologies and the Environment (2025)

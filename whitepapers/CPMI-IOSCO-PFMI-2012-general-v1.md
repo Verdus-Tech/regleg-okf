@@ -15,7 +15,7 @@ generated_at: "2026-06-07T00:50:37.202063+00:00"
 published_at: "2026-06-07T00:50:37.202063+00:00"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j1/int/bis-cpmi/CPMI-IOSCO-PFMI-2012/ai-labs/"
-timestamp: "2026-06-16T07:45:50.235279+00:00"
+timestamp: "2026-06-16T00:00:00+00:00"
 ---
 
 # Hallucination findings: None

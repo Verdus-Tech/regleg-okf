@@ -3,7 +3,7 @@ type: "Index"
 title: "AI hallucination findings"
 description: "Every confirmed delta between an AI subject's answer and the regulator's verbatim text, grouped by regulation."
 entry_count: 107
-timestamp: "2026-06-16T07:45:49.867609+00:00"
+timestamp: "2026-06-16T00:00:00+00:00"
 ---
 
 # AI hallucination findings

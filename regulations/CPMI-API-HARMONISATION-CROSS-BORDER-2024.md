@@ -15,7 +15,7 @@ audit_status: "research_complete"
 active_findings_count: 6
 whitepapers_count: 2
 license: "CC-BY-4.0"
-timestamp: "2026-06-16T07:45:49.921037+00:00"
+timestamp: "2026-06-16T00:00:00+00:00"
 ---
 
 # Promoting the Harmonisation of Application Programming Interfaces to Enhance Cross-Border Payments: Recommendations and Toolkit

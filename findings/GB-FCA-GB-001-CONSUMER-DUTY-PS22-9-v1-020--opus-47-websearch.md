@@ -26,7 +26,7 @@ methodology_version: "2.1"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j3/gb/fca/CONSUMER-DUTY-PS22-9/ai-labs/finding/GB-FCA-GB-001-CONSUMER-DUTY-PS22-9-v1-020--opus-47-websearch/"
 tags: ["ai-hallucination", "inference_drift", "fca", "consumer-duty-ps22-9", "gb"]
-timestamp: "2026-06-16T07:45:48.700593+00:00"
+timestamp: "2026-06-16T00:00:00+00:00"
 ---
 
 # AI Hallucination Finding: Which pre-Consumer Duty Dear CEO letters remain in force, and has the FCA withdrawn letters that…

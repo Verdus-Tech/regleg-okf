@@ -26,7 +26,7 @@ methodology_version: "v2.3"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j1/int/imf/IMF-PRECAUTIONARY-BALANCES-REVIEW-2026/ai-labs/finding/INT-IMF-INT-001-IMF-PRECAUTIONARY-BALANCES-REVIEW-2026-v1-011--opus-47-websearch/"
 tags: ["ai-hallucination", "inference_drift", "imf", "imf-precautionary-balances-review-2026", "int"]
-timestamp: "2026-06-16T07:45:49.261468+00:00"
+timestamp: "2026-06-16T00:00:00+00:00"
 ---
 
 # AI Hallucination Finding: A central bank reserves management team is preparing the deputy governor for an upcoming bilateral…

@@ -15,7 +15,7 @@ generated_at: "2026-06-11T01:35:42.508234+00:00"
 published_at: "2026-06-07T08:36:16.964607+00:00"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j1/int/bis-cpmi/CPMI-ISO-20022-HARMONISATION-UPDATED-2026/ai-labs/"
-timestamp: "2026-06-16T07:45:50.515481+00:00"
+timestamp: "2026-06-16T00:00:00+00:00"
 ---
 
 # ISO 20022 Harmonisation: Numeric Conflation and Attribution Failures in Cross-Border Payment Regulation

@@ -13,7 +13,7 @@ published_at: "2026-06-07T08:39:33.721893+00:00"
 generated_at: "2026-06-11T01:39:05.145683+00:00"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/briefings/cftc-reg-1-25-2024-customer-funds-investment-failures/"
-timestamp: "2026-06-16T07:45:48.347980+00:00"
+timestamp: "2026-06-16T00:00:00+00:00"
 ---
 
 # Regulation 1.25 Amendment Failures: Schema Substitution and Procedural Confabulation on CFTC Customer Fund Investment Rules

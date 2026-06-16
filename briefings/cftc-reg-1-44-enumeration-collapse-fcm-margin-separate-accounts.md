@@ -13,7 +13,7 @@ published_at: "2026-06-07T01:25:43.528347+00:00"
 generated_at: "2026-06-11T01:32:19.300654+00:00"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/briefings/cftc-reg-1-44-enumeration-collapse-fcm-margin-separate-accounts/"
-timestamp: "2026-06-16T07:45:48.359276+00:00"
+timestamp: "2026-06-16T00:00:00+00:00"
 ---
 
 # Enumeration Collapse in CFTC Regulation 1.44: How Models Reconstruct Regulatory Lists from Operational Priors

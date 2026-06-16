@@ -26,7 +26,7 @@ methodology_version: "2.3"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j3/us/cftc/FCM-MARGIN-ADEQUACY-SEPARATE-ACCOUNTS-REG-1-44/ai-labs/finding/US-CFTC-US-001-FCM-MARGIN-ADEQUACY-SEPARATE-ACCOUNTS-REG-1-44-v1-001--sonnet-46-websearch/"
 tags: ["ai-hallucination", "inference_drift", "cftc", "fcm-margin-adequacy-separate-accounts-reg-1-44", "us"]
-timestamp: "2026-06-16T07:45:49.808501+00:00"
+timestamp: "2026-06-16T00:00:00+00:00"
 ---
 
 # AI Hallucination Finding: Prepare an operational guidance note for a margin team configuring system parameters for CFTC…

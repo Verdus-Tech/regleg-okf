@@ -15,7 +15,7 @@ generated_at: "2026-06-07T07:58:53.106097+00:00"
 published_at: "2026-06-07T07:58:53.106097+00:00"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j1/int/imf/IMF-CHARGES-SURCHARGE-REFORM-2024/ai-labs/"
-timestamp: "2026-06-16T07:45:50.304566+00:00"
+timestamp: "2026-06-16T00:00:00+00:00"
 ---
 
 # Hallucination findings: Review of Charges and the Surcharge Policy, Reform Proposals (October 2024)

@@ -15,7 +15,7 @@ audit_status: "in_progress"
 regulations_complete_count: 0
 active_findings_count: 2
 license: "CC-BY-4.0"
-timestamp: "2026-06-16T07:45:48.279686+00:00"
+timestamp: "2026-06-16T00:00:00+00:00"
 ---
 
 # Monetary Authority of Singapore (MAS)

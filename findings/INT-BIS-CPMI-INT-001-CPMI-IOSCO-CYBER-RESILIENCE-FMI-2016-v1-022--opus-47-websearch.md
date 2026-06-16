@@ -26,7 +26,7 @@ methodology_version: "2.3"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j1/int/bis-cpmi/CPMI-IOSCO-CYBER-RESILIENCE-FMI-2016/ai-labs/finding/INT-BIS-CPMI-INT-001-CPMI-IOSCO-CYBER-RESILIENCE-FMI-2016-v1-022--opus-47-websearch/"
 tags: ["ai-hallucination", "outdated", "bis-cpmi", "cpmi-iosco-cyber-resilience-fmi-2016", "int"]
-timestamp: "2026-06-16T07:45:48.957164+00:00"
+timestamp: "2026-06-16T00:00:00+00:00"
 ---
 
 # AI Hallucination Finding: Is the CPMI-IOSCO 2016 Cyber Resilience Guidance still the operative international standard for FMI…

@@ -13,7 +13,7 @@ published_at: "2026-05-28T10:23:18.799941+00:00"
 generated_at: "2026-06-10T23:35:14.568926+00:00"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/briefings/mas-notice-637-capital-adequacy-ai-model-accuracy/"
-timestamp: "2026-06-16T07:45:48.556365+00:00"
+timestamp: "2026-06-16T00:00:00+00:00"
 ---
 
 # MAS Notice 637 Capital Adequacy: AI Model Accuracy Evaluation

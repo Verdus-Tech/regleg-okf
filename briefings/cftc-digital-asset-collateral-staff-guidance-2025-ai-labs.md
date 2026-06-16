@@ -13,7 +13,7 @@ published_at: "2026-06-07T08:37:33.875369+00:00"
 generated_at: "2026-06-11T01:41:27.739389+00:00"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/briefings/cftc-digital-asset-collateral-staff-guidance-2025-ai-labs/"
-timestamp: "2026-06-16T07:45:48.336540+00:00"
+timestamp: "2026-06-16T00:00:00+00:00"
 ---
 
 # CFTC Digital Asset Collateral Staff Guidance 2025: Hallucination Patterns across frontier AI models

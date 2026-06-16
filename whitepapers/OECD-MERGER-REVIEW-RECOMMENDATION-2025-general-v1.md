@@ -15,7 +15,7 @@ generated_at: "2026-06-07T23:15:59.175358+00:00"
 published_at: "2026-06-07T23:15:59.175358+00:00"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j1/int/oecd/OECD-MERGER-REVIEW-RECOMMENDATION-2025/ai-labs/"
-timestamp: "2026-06-16T07:45:50.350595+00:00"
+timestamp: "2026-06-16T00:00:00+00:00"
 ---
 
 # Hallucination findings: Recommendation of the Council on Merger Review (2025 Revision)
