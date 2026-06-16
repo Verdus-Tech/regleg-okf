@@ -1,0 +1,59 @@
+{
+  "title": "RegLegBrief OKF Bundle — Confirmed AI Hallucinations on Primary Regulatory Text",
+  "description": "<p>The complete corpus of confirmed AI hallucination findings from the <a href=\"https://reglegbrief.com\">RegLegBrief Specialist Panel</a>, expressed in Google’s Open Knowledge Format (OKF) v0.1 specification. Every finding documents a delta between a named AI subject (Claude Opus 4.7, Claude Sonnet 4.6, etc.) and the regulator-issued primary-source text those subjects were tested against.</p><p><strong>At a glance:</strong> 21 regulations across 8 regulatory bodies (IMF, OECD, BIS-CPMI, CFTC, FCA, MAS, UNTC), 107 confirmed hallucination findings each bound to a verbatim regulator excerpt, 4 jurisdictions (US, SG, UK, INT), 205 concept files.</p><p><strong>Live bundle:</strong> <a href=\"https://reglegbrief.com/okf/\">reglegbrief.com/okf/</a> (regenerated from DB on every request — always current).<br/><strong>Hugging Face mirror:</strong> <a href=\"https://huggingface.co/datasets/verdus-tech/regleg-okf\">huggingface.co/datasets/verdus-tech/regleg-okf</a><br/><strong>Wikidata:</strong> <a href=\"https://www.wikidata.org/wiki/Q140247788\">Q140247788</a></p><p>Methodology and right-of-reply are open-access at <a href=\"https://reglegbrief.com/methodology/\">reglegbrief.com/methodology/</a>.</p>",
+  "upload_type": "dataset",
+  "creators": [
+    {
+      "name": "RLB Specialist Panel",
+      "affiliation": "Verdus Technologies Pte. Ltd. (UEN 201616982R, Singapore)"
+    }
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "ai-hallucinations",
+    "ai-safety",
+    "regulatory-compliance",
+    "large-language-models",
+    "knowledge-graph",
+    "open-knowledge-format",
+    "okf",
+    "model-evaluation",
+    "verbatim-grounding",
+    "legal-nlp",
+    "financial-regulation"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://reglegbrief.com/okf/",
+      "relation": "isSupplementTo",
+      "scheme": "url",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/verdus-tech/regleg-okf",
+      "relation": "isIdenticalTo",
+      "scheme": "url",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://www.wikidata.org/wiki/Q140247788",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://reglegbrief.com/methodology/",
+      "relation": "isDescribedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://reglegbrief.com",
+      "relation": "isPartOf",
+      "scheme": "url"
+    }
+  ],
+  "language": "eng",
+  "publication_date": "2026-06-16",
+  "notes": "Each new GitHub release on Verdus-Tech/regleg-okf is auto-deposited to Zenodo via the GitHub-Zenodo integration. The concept DOI 10.5281/zenodo.20716886 always resolves to the latest version. Title in this metadata file overrides Zenodo’s default auto-generated “Verdus-Tech/regleg-okf: <release title>” format on every future release.",
+  "method": "Methodology: every finding passes through a Specialist-Panel-verified pipeline. (1) Substrate extraction from official regulator portals. (2) Asymmetric question generation spanning knowledge-mode, application-mode, embedded-wrong-premise, user-verification, source-contamination, and sycophantic patterns. (3) Sandboxed audit: subject AIs answer without any access to the substrate dir. (4) Verify-and-confirm: every hallucination is bound to verbatim regulator text before publication; the (c)-pattern methodology gate blocks any finding without a clean primary-source excerpt. Full disclosure at https://reglegbrief.com/methodology/"
+}
