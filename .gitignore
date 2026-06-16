@@ -1,0 +1,37 @@
+# Local OS noise
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Temporary
+*.tmp
+*.log
+.cache/
+
+# Build artefacts (we shouldn't have any — bundle is plain markdown)
+node_modules/
+dist/
+build/
+
+# Secrets — defence in depth (these should never be committed)
+*.token
+*.pem
+*.key
+.env
+.env.*
+credentials.json
+.github_*_token

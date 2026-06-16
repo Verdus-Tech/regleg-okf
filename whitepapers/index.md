@@ -1,0 +1,38 @@
+---
+type: "Index"
+title: "AI Labs whitepapers"
+description: "Synthesized AI Labs whitepapers, one per regulation with active findings."
+entry_count: 21
+timestamp: "2026-06-16T07:42:10.172669+00:00"
+---
+
+# AI Labs whitepapers
+
+21 whitepapers.
+
+- [`imf-precautionary-balances-review-2026`](/okf/whitepapers/imf-precautionary-balances-review-2026.md) — AI Hallucination Evaluation: Review of the Adequacy of the Fund's Precautionary Balances (2026) _(reg: [IMF-PRECAUTIONARY-BALANCES-REVIEW-2026](/okf/regulations/IMF-PRECAUTIONARY-BALANCES-REVIEW-2026.md))_
+- [`cpmi-fps-interlinking-governance-2024`](/okf/whitepapers/cpmi-fps-interlinking-governance-2024.md) — AI Hallucination Evaluation: Linking Fast Payment Systems Across Borders — Governance and Oversight _(reg: [CPMI-FPS-INTERLINKING-GOVERNANCE-2024](/okf/regulations/CPMI-FPS-INTERLINKING-GOVERNANCE-2024.md))_
+- [`cpmi-iosco-variation-margin-ccps-2025`](/okf/whitepapers/cpmi-iosco-variation-margin-ccps-2025.md) — AI Hallucination Evaluation: Streamlining Variation Margin in Centrally Cleared Markets _(reg: [CPMI-IOSCO-VARIATION-MARGIN-CCPs-2025](/okf/regulations/CPMI-IOSCO-VARIATION-MARGIN-CCPs-2025.md))_
+- [`cpo-cta-regulation-4-7-qep-thresholds-2024-ai-labs`](/okf/whitepapers/cpo-cta-regulation-4-7-qep-thresholds-2024-ai-labs.md) — AI Hallucination Evaluation: CFTC Regulation 4.7 (Qualified Eligible Person Portfolio Requirements - 2024 Amendments) _(reg: [CPO-CTA-REGULATION-4-7-QEP-THRESHOLDS-2024](/okf/regulations/CPO-CTA-REGULATION-4-7-QEP-THRESHOLDS-2024.md))_
+- [`cpmi-iosco-cyber-resilience-fmi-2016-ai-labs`](/okf/whitepapers/cpmi-iosco-cyber-resilience-fmi-2016-ai-labs.md) — Hallucination in Regulatory AI: CPMI-IOSCO Cyber Resilience Guidance (2016), Findings for AI Labs _(reg: [CPMI-IOSCO-CYBER-RESILIENCE-FMI-2016](/okf/regulations/CPMI-IOSCO-CYBER-RESILIENCE-FMI-2016.md))_
+- [`bbnj-high-seas-biodiversity-agreement-2023-ai-labs`](/okf/whitepapers/bbnj-high-seas-biodiversity-agreement-2023-ai-labs.md) — BBNJ High Seas Biodiversity Agreement: Model Hallucination Findings _(reg: [BBNJ-HIGH-SEAS-BIODIVERSITY-AGREEMENT-2023](/okf/regulations/BBNJ-HIGH-SEAS-BIODIVERSITY-AGREEMENT-2023.md))_
+- [`cpmi-api-harmonisation-cross-border-2024-ai-labs`](/okf/whitepapers/cpmi-api-harmonisation-cross-border-2024-ai-labs.md) — API Harmonisation for Cross-Border Payments: Model Failure Patterns on CPMI's October 2024 Framework _(reg: [CPMI-API-HARMONISATION-CROSS-BORDER-2024](/okf/regulations/CPMI-API-HARMONISATION-CROSS-BORDER-2024.md))_
+- [`consumer-duty-ps22-9-hallucination-report-ai-labs`](/okf/whitepapers/consumer-duty-ps22-9-hallucination-report-ai-labs.md) — Consumer Duty Hallucination Report: frontier AI models _(reg: [CONSUMER-DUTY-PS22-9](/okf/regulations/CONSUMER-DUTY-PS22-9.md))_
+- [`cftc-digital-asset-collateral-staff-guidance-2025-ai-labs`](/okf/whitepapers/cftc-digital-asset-collateral-staff-guidance-2025-ai-labs.md) — CFTC Digital Asset Collateral Staff Guidance 2025: Hallucination Patterns across frontier AI models _(reg: [DIGITAL-ASSET-COLLATERAL-TOKENIZED-ASSETS-STAFF-GUIDANCE-2025](/okf/regulations/DIGITAL-ASSET-COLLATERAL-TOKENIZED-ASSETS-STAFF-GUIDANCE-2025.md))_
+- [`cftc-reg-1-25-2024-customer-funds-investment-failures`](/okf/whitepapers/cftc-reg-1-25-2024-customer-funds-investment-failures.md) — Regulation 1.25 Amendment Failures: Schema Substitution and Procedural Confabulation on CFTC Customer Fund Investment Rules _(reg: [FCM-DCO-CUSTOMER-FUNDS-INVESTMENTS-REG-1-25-2024](/okf/regulations/FCM-DCO-CUSTOMER-FUNDS-INVESTMENTS-REG-1-25-2024.md))_
+- [`cpmi-iso-20022-harmonisation-updated-2026-ai-labs`](/okf/whitepapers/cpmi-iso-20022-harmonisation-updated-2026-ai-labs.md) — ISO 20022 Harmonisation: Numeric Conflation and Attribution Failures in Cross-Border Payment Regulation _(reg: [CPMI-ISO-20022-HARMONISATION-UPDATED-2026](/okf/regulations/CPMI-ISO-20022-HARMONISATION-UPDATED-2026.md))_
+- [`cpmi-iosco-pfmi-2012-ai-labs`](/okf/whitepapers/cpmi-iosco-pfmi-2012-ai-labs.md) — AI Model Hallucination Patterns on CPMI-IOSCO PFMI: A RegLeg Research Report _(reg: [CPMI-IOSCO-PFMI-2012](/okf/regulations/CPMI-IOSCO-PFMI-2012.md))_
+- [`cftc-reg-1-44-enumeration-collapse-fcm-margin-separate-accounts`](/okf/whitepapers/cftc-reg-1-44-enumeration-collapse-fcm-margin-separate-accounts.md) — Enumeration Collapse in CFTC Regulation 1.44: How Models Reconstruct Regulatory Lists from Operational Priors _(reg: [FCM-MARGIN-ADEQUACY-SEPARATE-ACCOUNTS-REG-1-44](/okf/regulations/FCM-MARGIN-ADEQUACY-SEPARATE-ACCOUNTS-REG-1-44.md))_
+- [`mas-notice-637-capital-adequacy-ai-model-accuracy`](/okf/whitepapers/mas-notice-637-capital-adequacy-ai-model-accuracy.md) — MAS Notice 637 Capital Adequacy: AI Model Accuracy Evaluation _(reg: [NOTICE-637-CAPITAL-ADEQUACY-BANKS-2025](/okf/regulations/NOTICE-637-CAPITAL-ADEQUACY-BANKS-2025.md))_
+- [`oecd-digital-technologies-environment-2025-numeric-reconstruction`](/okf/whitepapers/oecd-digital-technologies-environment-2025-numeric-reconstruction.md) — Numeric Reconstruction Failures on OECD Digital Technologies and the Environment (2025) _(reg: [OECD-DIGITAL-TECHNOLOGIES-ENVIRONMENT-2025](/okf/regulations/OECD-DIGITAL-TECHNOLOGIES-ENVIRONMENT-2025.md))_
+- [`oecd-merger-review-recommendation-2025-ai-labs`](/okf/whitepapers/oecd-merger-review-recommendation-2025-ai-labs.md) — Structural Fabrication and Qualifier Erasure: AI Failure Modes on the 2025 OECD Merger Review Recommendation _(reg: [OECD-MERGER-REVIEW-RECOMMENDATION-2025](/okf/regulations/OECD-MERGER-REVIEW-RECOMMENDATION-2025.md))_
+- [`imf-financing-assurances-sovereign-arrears-2024-ai-labs`](/okf/whitepapers/imf-financing-assurances-sovereign-arrears-2024-ai-labs.md) — Cross-Provision Conflation in IMF Sovereign Financing Framework: Frontier AI Model Findings _(reg: [IMF-GUIDANCE-FINANCING-ASSURANCES-SOVEREIGN-ARREARS-2024](/okf/regulations/IMF-GUIDANCE-FINANCING-ASSURANCES-SOVEREIGN-ARREARS-2024.md))_
+- [`imf-charges-surcharge-reform-2024`](/okf/whitepapers/imf-charges-surcharge-reform-2024.md) — IMF Surcharge Reform 2024: Numeric Baseline Failures Across Frontier AI Model Configurations _(reg: [IMF-CHARGES-SURCHARGE-REFORM-2024](/okf/regulations/IMF-CHARGES-SURCHARGE-REFORM-2024.md))_
+- [`pfmi-principle-15-conditional-structure-failures-opus-47-sonnet-46`](/okf/whitepapers/pfmi-principle-15-conditional-structure-failures-opus-47-sonnet-46.md) — PFMI Principle 15 Failures: Conditional-Structure Fabrication and Carve-Out Denial across frontier AI models _(reg: [CPMI-IOSCO-PFMI-L3-GENERAL-BUSINESS-RISK-2025](/okf/regulations/CPMI-IOSCO-PFMI-L3-GENERAL-BUSINESS-RISK-2025.md))_
+- [`cpmi-iosco-initial-margin-disclosure-consult-2026-deontic-register`](/okf/whitepapers/cpmi-iosco-initial-margin-disclosure-consult-2026-deontic-register.md) — Deontic Register Failure on the CPMI-IOSCO Initial Margin Consultation 2026 _(reg: [CPMI-IOSCO-INITIAL-MARGIN-DISCLOSURE-CONSULT-2026](/okf/regulations/CPMI-IOSCO-INITIAL-MARGIN-DISCLOSURE-CONSULT-2026.md))_
+- [`cftc-swap-dealer-business-conduct-documentation-2025`](/okf/whitepapers/cftc-swap-dealer-business-conduct-documentation-2025.md) — Amendment-Layer Failures on CFTC Swap Dealer Business Conduct Rules _(reg: [SWAP-DEALER-BUSINESS-CONDUCT-DOCUMENTATION-2025](/okf/regulations/SWAP-DEALER-BUSINESS-CONDUCT-DOCUMENTATION-2025.md))_
+
+## Related concepts
+
+- [Findings](/okf/findings/index.md)
+- [Regulations](/okf/regulations/index.md)

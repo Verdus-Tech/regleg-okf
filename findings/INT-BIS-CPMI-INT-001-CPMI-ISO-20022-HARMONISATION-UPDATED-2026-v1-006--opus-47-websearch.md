@@ -1,0 +1,82 @@
+---
+type: "AIHallucinationFinding"
+title: "What share of faster payment systems and RTGS systems are currently using ISO 20022 messaging,…"
+citation_id: "RLB-H-INT-BIS-CPMI-ISO-20022-HARMONISATION-UPDATED-2026-Q006-Opus47"
+finding_uid: "INT-BIS-CPMI-INT-001-CPMI-ISO-20022-HARMONISATION-UPDATED-2026-v1-006--opus-47-websearch"
+question_uid: "INT-BIS-CPMI-INT-001-CPMI-ISO-20022-HARMONISATION-UPDATED-2026-v1-006"
+regulation_id: "INT-BIS-CPMI-INT-001-CPMI-ISO-20022-HARMONISATION-UPDATED-2026"
+regulation_slug: "CPMI-ISO-20022-HARMONISATION-UPDATED-2026"
+regulation_title: "Harmonised ISO 20022 Data Requirements for Enhancing Cross-Border Payments - Updated Report"
+regulator_short_code: "BIS-CPMI"
+regulatory_body_id: "BIS-CPMI-INT-001"
+jurisdiction_code: "INT"
+j_level: "J1"
+ai_subject: "claude-opus-4-7"
+ai_subject_display: "Claude Opus 4.7 (web search on)"
+ai_subject_version: "opus-47-websearch"
+response_failure_mode: "inference_drift"
+substrate_document_name: "p_10_SPEECH_ISO_20022_adoption_rates_across_payment_r260316d.htm"
+substrate_document_path: "https://reglegbrief.com/substrate/INT/BIS-CPMI/CPMI-ISO-20022-HARMONISATION-UPDATED-2026/_raw_manual_substrate/p_10_SPEECH_ISO_20022_adoption_rates_across_payment_r260316d.htm"
+substrate_section_anchor: "ISO 20022 adoption rates across payment systems (as of December 2024 monitoring survey)"
+citation_issue_types: ["Contradictory"]
+audiences: ["ai_labs"]
+published_at: "2026-06-07T07:58:42.249825+00:00"
+substrate_version: 1
+methodology_version: "2.3"
+license: "CC-BY-4.0"
+resource: "https://reglegbrief.com/regulators/j1/int/bis-cpmi/CPMI-ISO-20022-HARMONISATION-UPDATED-2026/ai-labs/finding/INT-BIS-CPMI-INT-001-CPMI-ISO-20022-HARMONISATION-UPDATED-2026-v1-006--opus-47-websearch/"
+tags: ["ai-hallucination", "inference_drift", "bis-cpmi", "cpmi-iso-20022-harmonisation-updated-2026", "int"]
+timestamp: "2026-06-16T07:42:08.661089+00:00"
+---
+
+# AI Hallucination Finding: What share of faster payment systems and RTGS systems are currently using ISO 20022 messaging,…
+
+- **Citation ID.** `RLB-H-INT-BIS-CPMI-ISO-20022-HARMONISATION-UPDATED-2026-Q006-Opus47`
+- **Finding UID.** `INT-BIS-CPMI-INT-001-CPMI-ISO-20022-HARMONISATION-UPDATED-2026-v1-006--opus-47-websearch`
+- **Regulation.** [`CPMI-ISO-20022-HARMONISATION-UPDATED-2026`](/okf/regulations/CPMI-ISO-20022-HARMONISATION-UPDATED-2026.md) — Harmonised ISO 20022 Data Requirements for Enhancing Cross-Border Payments - Updated Report
+- **Regulator.** [`BIS-CPMI-INT-001`](/okf/bodies/BIS-CPMI-INT-001.md) — Bank for International Settlements — Committee on Payments and Market Infrastructures (CPMI)
+- **AI subject.** Claude Opus 4.7 (web search on)
+- **Failure mode.** [`inference_drift`](/okf/taxonomy/failure-modes.md)
+- **Published.** 2026-06-07T07:58:42.249825+00:00
+
+## Question put to the AI subject
+
+What share of faster payment systems and RTGS systems are currently using ISO 20022 messaging, according to CPMI monitoring survey data cited by FSB officials?
+
+## AI subject's verbatim answer
+
+79% of both real-time gross settlement (RTGS) systems and fast payment systems (FPS) have either already implemented ISO 20022 or have concrete plans to do so.
+
+## Verbatim regulator text contradicting the answer
+
+> More than three quarters of faster payment systems covered by the survey, and approaching half of RTGS systems, are now using ISO 20022.
+
+_Source:_ [p_10_SPEECH_ISO_20022_adoption_rates_across_payment_r260316d.htm](https://reglegbrief.com/substrate/INT/BIS-CPMI/CPMI-ISO-20022-HARMONISATION-UPDATED-2026/_raw_manual_substrate/p_10_SPEECH_ISO_20022_adoption_rates_across_payment_r260316d.htm)
+_Section anchor:_ ISO 20022 adoption rates across payment systems (as of December 2024 monitoring survey)
+
+## Failure mode
+
+**`inference_drift`** — Inference drift — the AI inferred a conclusion the regulator's text does not warrant, often by combining unrelated provisions.
+
+## Citation-issue types
+
+- **Contradictory** — <https://www.bis.org/cpmi/publ/brief10.pdf>
+- **Contradictory** — <https://www.bis.org/cpmi/publ/brief11.pdf>
+
+## Related concepts
+
+- Regulation: [CPMI-ISO-20022-HARMONISATION-UPDATED-2026](/okf/regulations/CPMI-ISO-20022-HARMONISATION-UPDATED-2026.md)
+- Regulator: [BIS-CPMI-INT-001](/okf/bodies/BIS-CPMI-INT-001.md)
+- Failure-mode taxonomy: [inference_drift](/okf/taxonomy/failure-modes.md)
+- Methodology: [v2.3](/okf/methodology.md)
+- Editorial standards: [right of reply](/okf/editorial-standards.md)
+
+## Reproduction
+
+Citation ID: `RLB-H-INT-BIS-CPMI-ISO-20022-HARMONISATION-UPDATED-2026-Q006-Opus47`
+
+Resource URL (HTML view of this finding):
+
+<https://reglegbrief.com/regulators/j1/int/bis-cpmi/CPMI-ISO-20022-HARMONISATION-UPDATED-2026/ai-labs/finding/INT-BIS-CPMI-INT-001-CPMI-ISO-20022-HARMONISATION-UPDATED-2026-v1-006--opus-47-websearch/>
+
+This finding is reproducible against the substrate document linked above, using the same AI subject, the same methodology version, and the verbatim question text.
