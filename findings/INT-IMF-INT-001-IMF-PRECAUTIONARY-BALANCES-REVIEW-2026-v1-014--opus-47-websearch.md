@@ -26,7 +26,7 @@ methodology_version: "v2.3"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j1/int/imf/IMF-PRECAUTIONARY-BALANCES-REVIEW-2026/ai-labs/finding/INT-IMF-INT-001-IMF-PRECAUTIONARY-BALANCES-REVIEW-2026-v1-014--opus-47-websearch/"
 tags: ["ai-hallucination", "misstated_rule", "imf", "imf-precautionary-balances-review-2026", "int"]
-timestamp: "2026-06-16T07:42:08.841877+00:00"
+timestamp: "2026-06-16T07:45:39.105401+00:00"
 ---
 
 # AI Hallucination Finding: A sovereign-credit research desk at a ratings agency is updating its IMF financial-strength tracker…

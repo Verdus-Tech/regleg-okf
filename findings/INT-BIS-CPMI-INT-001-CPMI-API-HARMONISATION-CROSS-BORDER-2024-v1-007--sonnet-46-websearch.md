@@ -26,7 +26,7 @@ methodology_version: "2.3"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j1/int/bis-cpmi/CPMI-API-HARMONISATION-CROSS-BORDER-2024/ai-labs/finding/INT-BIS-CPMI-INT-001-CPMI-API-HARMONISATION-CROSS-BORDER-2024-v1-007--sonnet-46-websearch/"
 tags: ["ai-hallucination", "inference_drift", "bis-cpmi", "cpmi-api-harmonisation-cross-border-2024", "int"]
-timestamp: "2026-06-16T07:42:08.308634+00:00"
+timestamp: "2026-06-16T07:45:38.534571+00:00"
 ---
 
 # AI Hallucination Finding: Which central bank is explicitly named as a collaborating partner with CPMI on the payment…

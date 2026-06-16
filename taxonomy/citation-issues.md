@@ -5,7 +5,7 @@ description: "The 3 citation-issue types attached to each source the AI subject 
 axis: "cited_source_status.label"
 entries: ["Contradictory", "Hallucinated", "Missing"]
 license: "CC-BY-4.0"
-timestamp: "2026-06-16T07:42:09.765685+00:00"
+timestamp: "2026-06-16T07:45:40.044650+00:00"
 ---
 
 # Citation-issue taxonomy

@@ -15,7 +15,7 @@ generated_at: "2026-06-15T10:59:17.455489+00:00"
 published_at: "2026-06-15T10:44:20.645518+00:00"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j1/int/imf/IMF-PRECAUTIONARY-BALANCES-REVIEW-2026/ai-labs/"
-timestamp: "2026-06-16T07:42:10.156196+00:00"
+timestamp: "2026-06-16T07:45:40.432903+00:00"
 ---
 
 # AI Hallucination Evaluation: Review of the Adequacy of the Fund's Precautionary Balances (2026)

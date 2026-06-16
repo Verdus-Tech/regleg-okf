@@ -15,7 +15,7 @@ audit_status: "research_complete"
 active_findings_count: 5
 whitepapers_count: 2
 license: "CC-BY-4.0"
-timestamp: "2026-06-16T07:42:09.641871+00:00"
+timestamp: "2026-06-16T07:45:39.918223+00:00"
 ---
 
 # CFTC Digital Asset Collateral No-Action Relief and Tokenized Asset Staff Guidance (Market Participants Division, December 2025)

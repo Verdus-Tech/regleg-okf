@@ -26,7 +26,7 @@ methodology_version: "2.3"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j3/us/cftc/SWAP-DEALER-BUSINESS-CONDUCT-DOCUMENTATION-2025/ai-labs/finding/US-CFTC-US-001-SWAP-DEALER-BUSINESS-CONDUCT-DOCUMENTATION-2025-v1-003--opus-47-websearch/"
 tags: ["ai-hallucination", "inference_drift", "cftc", "swap-dealer-business-conduct-documentation-2025", "us"]
-timestamp: "2026-06-16T07:42:09.431470+00:00"
+timestamp: "2026-06-16T07:45:39.708936+00:00"
 ---
 
 # AI Hallucination Finding: What trading venues does CFTC Staff Letter 25-49 specifically address for the treatment of…

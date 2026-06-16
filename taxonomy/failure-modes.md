@@ -5,7 +5,7 @@ description: "The 4 response-failure modes used to classify confirmed AI halluci
 axis: "response_failure_mode"
 entries: ["misstated_rule", "inference_drift", "outdated", "misattributed"]
 license: "CC-BY-4.0"
-timestamp: "2026-06-16T07:42:09.767309+00:00"
+timestamp: "2026-06-16T07:45:40.046373+00:00"
 ---
 
 # Failure-mode taxonomy

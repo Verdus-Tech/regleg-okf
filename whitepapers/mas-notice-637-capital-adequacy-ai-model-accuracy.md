@@ -15,7 +15,7 @@ generated_at: "2026-06-10T23:35:14.568926+00:00"
 published_at: "2026-05-28T10:23:18.799941+00:00"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j3/sg/mas/NOTICE-637-CAPITAL-ADEQUACY-BANKS-2025/ai-labs/"
-timestamp: "2026-06-16T07:42:10.185467+00:00"
+timestamp: "2026-06-16T07:45:40.461418+00:00"
 ---
 
 # MAS Notice 637 Capital Adequacy: AI Model Accuracy Evaluation

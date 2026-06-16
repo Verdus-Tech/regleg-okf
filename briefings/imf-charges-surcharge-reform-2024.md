@@ -13,7 +13,7 @@ published_at: "2026-06-07T08:36:30.759469+00:00"
 generated_at: "2026-06-07T08:36:30.759469+00:00"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/briefings/imf-charges-surcharge-reform-2024/"
-timestamp: "2026-06-16T07:42:08.085573+00:00"
+timestamp: "2026-06-16T07:45:38.271808+00:00"
 ---
 
 # IMF Surcharge Reform 2024: Numeric Baseline Failures Across Frontier AI Model Configurations

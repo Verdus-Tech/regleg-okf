@@ -26,7 +26,7 @@ methodology_version: "v2.3"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j1/int/bis-cpmi/CPMI-FPS-INTERLINKING-GOVERNANCE-2024/ai-labs/finding/INT-BIS-CPMI-INT-001-CPMI-FPS-INTERLINKING-GOVERNANCE-2024-v1-005--opus-47-websearch/"
 tags: ["ai-hallucination", "inference_drift", "bis-cpmi", "cpmi-fps-interlinking-governance-2024", "int"]
-timestamp: "2026-06-16T07:42:08.411261+00:00"
+timestamp: "2026-06-16T07:45:38.643988+00:00"
 ---
 
 # AI Hallucination Finding: A payment industry analyst is compiling a report on industry engagement with CPMI's consultation on…

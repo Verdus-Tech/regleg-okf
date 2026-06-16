@@ -26,7 +26,7 @@ methodology_version: "2.3"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j1/int/bis-cpmi/CPMI-IOSCO-CYBER-RESILIENCE-FMI-2016/ai-labs/finding/INT-BIS-CPMI-INT-001-CPMI-IOSCO-CYBER-RESILIENCE-FMI-2016-v1-014--sonnet-46-websearch/"
 tags: ["ai-hallucination", "misattributed", "bis-cpmi", "cpmi-iosco-cyber-resilience-fmi-2016", "int"]
-timestamp: "2026-06-16T07:42:08.468512+00:00"
+timestamp: "2026-06-16T07:45:38.704604+00:00"
 ---
 
 # AI Hallucination Finding: Does the 2016 CPMI-IOSCO Cyber Resilience Guidance use the phrase 'secure the periphery, protect…

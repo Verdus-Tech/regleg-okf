@@ -15,7 +15,7 @@ audit_status: "research_complete"
 active_findings_count: 6
 whitepapers_count: 2
 license: "CC-BY-4.0"
-timestamp: "2026-06-16T07:42:09.494905+00:00"
+timestamp: "2026-06-16T07:45:39.766510+00:00"
 ---
 
 # Agreement under the United Nations Convention on the Law of the Sea on the Conservation and Sustainable Use of Marine Biological Diversity of Areas beyond National Jurisdiction (BBNJ Agreement / High Seas Treaty)

@@ -26,7 +26,7 @@ methodology_version: "v2.3"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j1/int/bis-cpmi/CPMI-FPS-INTERLINKING-GOVERNANCE-2024/ai-labs/finding/INT-BIS-CPMI-INT-001-CPMI-FPS-INTERLINKING-GOVERNANCE-2024-v1-001--opus-47-websearch/"
 tags: ["ai-hallucination", "inference_drift", "bis-cpmi", "cpmi-fps-interlinking-governance-2024", "int"]
-timestamp: "2026-06-16T07:42:08.365670+00:00"
+timestamp: "2026-06-16T07:45:38.593522+00:00"
 ---
 
 # AI Hallucination Finding: You are advising the Chief Risk Officer of PayLink Asia, a regional hub connecting three domestic…

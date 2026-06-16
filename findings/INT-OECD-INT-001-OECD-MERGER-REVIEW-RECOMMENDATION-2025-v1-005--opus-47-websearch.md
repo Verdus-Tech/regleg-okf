@@ -26,7 +26,7 @@ methodology_version: "2.3"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j1/int/oecd/OECD-MERGER-REVIEW-RECOMMENDATION-2025/ai-labs/finding/INT-OECD-INT-001-OECD-MERGER-REVIEW-RECOMMENDATION-2025-v1-005--opus-47-websearch/"
 tags: ["ai-hallucination", "inference_drift", "oecd", "oecd-merger-review-recommendation-2025", "int"]
-timestamp: "2026-06-16T07:42:08.917453+00:00"
+timestamp: "2026-06-16T07:45:39.184813+00:00"
 ---
 
 # AI Hallucination Finding: What conditions must a merging party satisfy to invoke the failing firm defence under the 2025 OECD…

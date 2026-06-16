@@ -26,7 +26,7 @@ methodology_version: "2.3"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j1/int/imf/IMF-CHARGES-SURCHARGE-REFORM-2024/ai-labs/finding/INT-IMF-INT-001-IMF-CHARGES-SURCHARGE-REFORM-2024-v1-004--opus-47-websearch/"
 tags: ["ai-hallucination", "inference_drift", "imf", "imf-charges-surcharge-reform-2024", "int"]
-timestamp: "2026-06-16T07:42:08.752702+00:00"
+timestamp: "2026-06-16T07:45:39.016694+00:00"
 ---
 
 # AI Hallucination Finding: What was the immediate impact of the October 2024 IMF surcharge reform on the number of countries…

@@ -8,7 +8,7 @@ publication: "RegLegBrief"
 publication_url: "https://reglegbrief.com"
 license: "CC-BY-4.0"
 primary_language: "en"
-timestamp: "2026-06-16T07:42:09.464639+00:00"
+timestamp: "2026-06-16T07:45:39.740229+00:00"
 ---
 # RegLegBrief — Open Knowledge Format bundle
 
@@ -85,4 +85,4 @@ contact partnership@reglegbrief.com.
 
 ## Last updated
 
-2026-06-16T07:42:09.464661+00:00
+2026-06-16T07:45:39.740250+00:00

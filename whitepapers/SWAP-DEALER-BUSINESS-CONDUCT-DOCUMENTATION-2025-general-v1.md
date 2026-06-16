@@ -15,7 +15,7 @@ generated_at: "2026-06-03T21:50:35.811432+00:00"
 published_at: "2026-06-03T21:50:35.811432+00:00"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j3/us/cftc/SWAP-DEALER-BUSINESS-CONDUCT-DOCUMENTATION-2025/ai-labs/"
-timestamp: "2026-06-16T07:42:09.936089+00:00"
+timestamp: "2026-06-16T07:45:40.225846+00:00"
 ---
 
 # Hallucination findings: Revisions to Business Conduct and Swap Documentation Requirements for Swap Dealers and Major Swap Participants

@@ -15,7 +15,7 @@ generated_at: "2026-06-11T01:49:48.816221+00:00"
 published_at: "2026-06-07T08:35:22.741211+00:00"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j1/int/bis-cpmi/CPMI-IOSCO-CYBER-RESILIENCE-FMI-2016/ai-labs/"
-timestamp: "2026-06-16T07:42:10.048788+00:00"
+timestamp: "2026-06-16T07:45:40.337365+00:00"
 ---
 
 # Hallucination in Regulatory AI: CPMI-IOSCO Cyber Resilience Guidance (2016), Findings for AI Labs

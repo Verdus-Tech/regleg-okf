@@ -3,7 +3,7 @@ type: "Index"
 title: "Regulatory bodies"
 description: "Bodies tested by RegLegBrief with at least one active finding or research_complete regulation."
 entry_count: 8
-timestamp: "2026-06-16T07:42:07.911759+00:00"
+timestamp: "2026-06-16T07:45:38.068559+00:00"
 ---
 
 # Regulatory bodies

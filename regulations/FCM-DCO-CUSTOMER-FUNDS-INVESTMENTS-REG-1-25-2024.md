@@ -15,7 +15,7 @@ audit_status: "research_complete"
 active_findings_count: 5
 whitepapers_count: 2
 license: "CC-BY-4.0"
-timestamp: "2026-06-16T07:42:09.655640+00:00"
+timestamp: "2026-06-16T07:45:39.931887+00:00"
 ---
 
 # Amendments to Regulation 1.25, Permissible Investments of Customer Funds by Futures Commission Merchants and Derivatives Clearing Organizations

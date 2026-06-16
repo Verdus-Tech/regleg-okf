@@ -15,7 +15,7 @@ generated_at: "2026-06-07T08:35:37.249075+00:00"
 published_at: "2026-06-07T08:35:37.249075+00:00"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j1/int/bis-cpmi/CPMI-IOSCO-PFMI-L3-GENERAL-BUSINESS-RISK-2025/ai-labs/"
-timestamp: "2026-06-16T07:42:10.222912+00:00"
+timestamp: "2026-06-16T07:45:40.497654+00:00"
 ---
 
 # PFMI Principle 15 Failures: Conditional-Structure Fabrication and Carve-Out Denial across frontier AI models

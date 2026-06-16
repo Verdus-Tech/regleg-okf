@@ -15,7 +15,7 @@ audit_status: "research_complete"
 active_findings_count: 10
 whitepapers_count: 1
 license: "CC-BY-4.0"
-timestamp: "2026-06-16T07:42:09.508121+00:00"
+timestamp: "2026-06-16T07:45:39.779298+00:00"
 ---
 
 # Consumer Duty (PS22/9 + PRIN 2A)

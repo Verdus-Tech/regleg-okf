@@ -15,7 +15,7 @@ audit_status: "research_complete"
 regulations_complete_count: 5
 active_findings_count: 33
 license: "CC-BY-4.0"
-timestamp: "2026-06-16T07:42:07.823110+00:00"
+timestamp: "2026-06-16T07:45:37.963018+00:00"
 ---
 
 # Commodity Futures Trading Commission (CFTC)

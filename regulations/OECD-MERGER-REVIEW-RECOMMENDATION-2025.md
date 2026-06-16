@@ -15,7 +15,7 @@ audit_status: "queued"
 active_findings_count: 7
 whitepapers_count: 0
 license: "CC-BY-4.0"
-timestamp: "2026-06-16T07:42:09.732137+00:00"
+timestamp: "2026-06-16T07:45:40.010126+00:00"
 ---
 
 # Recommendation of the Council on Merger Review (2025 Revision)

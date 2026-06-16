@@ -3,7 +3,7 @@ type: "Index"
 title: "Taxonomy"
 description: "Two producer-defined taxonomies used to classify every finding."
 entry_count: 2
-timestamp: "2026-06-16T07:42:09.768853+00:00"
+timestamp: "2026-06-16T07:45:40.047708+00:00"
 ---
 # Taxonomy
 

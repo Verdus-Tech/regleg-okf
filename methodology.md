@@ -7,7 +7,7 @@ modes: ["knowledge_mode", "application_mode", "websearch_mode", "wayback_mode"]
 citation_issue_types: ["Contradictory", "Hallucinated", "Missing"]
 failure_mode_taxonomy: ["misstated_rule", "inference_drift", "outdated", "misattributed"]
 license: "CC-BY-4.0"
-timestamp: "2026-06-16T07:42:09.481124+00:00"
+timestamp: "2026-06-16T07:45:39.754332+00:00"
 ---
 # Methodology — RegLegBrief audit
 

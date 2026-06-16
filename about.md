@@ -12,7 +12,7 @@ contact_email: "avichal987@gmail.com"
 partnership_email: "partnership@reglegbrief.com"
 description: "Original reporting on confirmed AI hallucinations on primary regulator text. Every finding is bound to a verbatim regulator excerpt with an immutable Citation ID."
 license: "CC-BY-4.0"
-timestamp: "2026-06-16T07:42:07.787159+00:00"
+timestamp: "2026-06-16T07:45:37.920606+00:00"
 ---
 # Publisher — RegLegBrief
 

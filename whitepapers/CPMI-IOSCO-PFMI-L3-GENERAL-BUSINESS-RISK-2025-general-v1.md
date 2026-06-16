@@ -15,7 +15,7 @@ generated_at: "2026-06-07T07:58:39.641431+00:00"
 published_at: "2026-06-07T07:58:39.641431+00:00"
 license: "CC-BY-4.0"
 resource: "https://reglegbrief.com/regulators/j1/int/bis-cpmi/CPMI-IOSCO-PFMI-L3-GENERAL-BUSINESS-RISK-2025/ai-labs/"
-timestamp: "2026-06-16T07:42:09.825495+00:00"
+timestamp: "2026-06-16T07:45:40.104825+00:00"
 ---
 
 # Hallucination findings: Implementation Monitoring of the PFMI: Level 3 Assessment on General Business Risks
