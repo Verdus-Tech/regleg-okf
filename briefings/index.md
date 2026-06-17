@@ -10,6 +10,7 @@ timestamp: "2026-06-16T00:00:00+00:00"
 
 21 briefings.
 
+- [`cpo-cta-regulation-4-7-qep-thresholds-2024-ai-labs`](/okf/briefings/cpo-cta-regulation-4-7-qep-thresholds-2024-ai-labs.md) — AI Hallucination Evaluation: CFTC Regulation 4.7 (Qualified Eligible Person Portfolio Requirements - 2024 Amendments)
 - [`imf-precautionary-balances-review-2026`](/okf/briefings/imf-precautionary-balances-review-2026.md) — AI Hallucination Evaluation: Review of the Adequacy of the Fund's Precautionary Balances (2026)
 - [`cpmi-fps-interlinking-governance-2024`](/okf/briefings/cpmi-fps-interlinking-governance-2024.md) — AI Hallucination Evaluation: Linking Fast Payment Systems Across Borders — Governance and Oversight
 - [`cpmi-iosco-variation-margin-ccps-2025`](/okf/briefings/cpmi-iosco-variation-margin-ccps-2025.md) — AI Hallucination Evaluation: Streamlining Variation Margin in Centrally Cleared Markets
@@ -30,7 +31,6 @@ timestamp: "2026-06-16T00:00:00+00:00"
 - [`cftc-reg-1-44-enumeration-collapse-fcm-margin-separate-accounts`](/okf/briefings/cftc-reg-1-44-enumeration-collapse-fcm-margin-separate-accounts.md) — Enumeration Collapse in CFTC Regulation 1.44: How Models Reconstruct Regulatory Lists from Operational Priors
 - [`cftc-swap-dealer-business-conduct-documentation-2025`](/okf/briefings/cftc-swap-dealer-business-conduct-documentation-2025.md) — Amendment-Layer Failures on CFTC Swap Dealer Business Conduct Rules
 - [`mas-notice-637-capital-adequacy-ai-model-accuracy`](/okf/briefings/mas-notice-637-capital-adequacy-ai-model-accuracy.md) — MAS Notice 637 Capital Adequacy: AI Model Accuracy Evaluation
-- [`cpo-cta-regulation-4-7-qep-thresholds-2024-ai-labs`](/okf/briefings/cpo-cta-regulation-4-7-qep-thresholds-2024-ai-labs.md) — AI Hallucination Evaluation: CFTC Regulation 4.7 (Qualified Eligible Person Portfolio Requirements - 2024 Amendments)
 
 ## Related concepts
 

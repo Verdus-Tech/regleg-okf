@@ -8,7 +8,7 @@ jurisdiction_code: "US"
 j_level: "J3"
 regulator_short_code: "CFTC"
 methodology_version: "2.3"
-news_featured_at: null
+news_featured_at: "2026-06-17T04:00:02.642450+00:00"
 published_at: "2026-06-11T07:51:36.493587+00:00"
 generated_at: "2026-06-11T07:51:36.493587+00:00"
 license: "CC-BY-4.0"
